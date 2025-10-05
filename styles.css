@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+.testimonials {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.testimonials h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.testimonial {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.testimonial p {
+  margin: 0;
+  font-size: 1.1em;
+  color: #333;
+}
+
+.testimonial span {
+  display: block;
+  text-align: right;
+  margin-top: 10px;
+  font-style: italic;
+  color: #000;
+}
